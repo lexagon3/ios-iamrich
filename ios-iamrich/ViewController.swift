@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  ios-iamrich
 //
-//  Created by Alex Lindsay on 2/3/22.
+//  Created by lexagonal on 2/3/22.
 //
 
 import UIKit
